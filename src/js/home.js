@@ -1,4 +1,5 @@
 import {productCard} from "./product"
+console.log("home.js");
 const product = document.querySelector('.section-product')
 console.log(productCard);
 
